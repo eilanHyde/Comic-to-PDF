@@ -9,7 +9,7 @@
 - 支持将漫画章节转换为 PDF 文件
 - 支持生成长图格式（将多张图片垂直拼接）
 - 自动压缩处理后的文件为 ZIP 格式
-- 多语言支持 (简体中文、繁体中文、英语、法语、德语、意大利语、日语、韩语、俄语、西班牙语等)
+- 多语言支持 (简体中文、繁体中文、英语、日语等)
 - 深色/浅色主题切换
 - 友好的图形界面
 - 自动保存配置
@@ -86,7 +86,7 @@ A simple yet practical tool for converting manga images into PDF or vertical-scr
 - Convert manga chapters into PDF files
 - Generate vertical-scroll images (stitch multiple images vertically)
 - Automatically compress processed files into ZIP format
-- Multi-language support (Simplified Chinese, Traditional Chinese, English, French, German, Italian, Japanese, Korean, Russian, Spanish, etc.)
+- Multi-language support (Simplified Chinese, Traditional Chinese, English, Japanese, etc.)
 - Light/Dark theme toggle
 - User-friendly GUI
 - Auto-save configurations
@@ -163,7 +163,7 @@ Please comply with relevant copyright laws and use only for personal and lawful 
 - 漫画の章をPDFファイルに変換
 - 縦長画像形式を生成（複数の画像を縦に結合）
 - 処理後のファイルを自動的にZIP形式で圧縮
-- 多言語対応（簡体字中国語、繁体字中国語、英語、フランス語、ドイツ語、イタリア語、日本語、韓国語、ロシア語、スペイン語など）
+- 多言語対応（簡体字中国語、繁体字中国語、英語、日本語など）
 - ダーク/ライトテーマの切り替え
 - ユーザーフレンドリーなGUI
 - 設定の自動保存
